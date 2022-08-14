@@ -3,8 +3,6 @@
 ## Table of contents
 
 -  [Overview](#overview)
-   -  [The Project](#the-project)
-   -  [Group Member](#group-member)
    -  [Links](#links)
    -  [Built with](#built-with)
 
