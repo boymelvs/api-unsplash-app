@@ -3,8 +3,7 @@
 ## Table of contents
 
 -  [Overview](#overview)
-   -  [The Project](#the-project)
-   -  [Group Member](#group-member)
+
    -  [Links](#links)
    -  [Built with](#built-with)
 
@@ -18,11 +17,11 @@ This is coding activity is about creating an app that can seach photo from unspl
 
 ### Links
 
--  Live Site URL: [Seach Photo App](https://boymelvs.github.io/pairgo)
+-  Live Site URL: [Seach Photo App](https://search-photo-app-blond.vercel.app)
 
 ### Built with
 
 -  HTML
+-  React Js
 -  SCSS/CSS
 -  Flexbox
--  React Js
